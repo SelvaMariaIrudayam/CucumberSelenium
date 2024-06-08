@@ -1,0 +1,11 @@
+BDD-bridges the gap between tech and non-tech
+Behaviour of the application
+write testcases for UAT-given by product owner
+list of acceptance criteria given by the product owner
+
+feature,rule,scenario,Scenaro outline,example,given,when,then,and,but,background-alphabetical
+"""-doc string,@-tag,//-comment,/-data table
+
+feature: des-contains a set of scenarios -user login-one/.feature file
+scenario-multilpe steps(testcase)single testcase
+
